@@ -35,7 +35,7 @@ for i in range(7):
 
 window.mainloop()
 ```
-### F1.8.01.O3
+## F1.8.01.O3
 Hello tkinter!
 ``` python
 import tkinter
