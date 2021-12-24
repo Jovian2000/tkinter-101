@@ -6,6 +6,7 @@ window.geometry("100x100")
 
 block1 = tkinter.Label(
     window, 
+    font = ("Arial", 15),
     text = "Hello\n tkinter!",
     bg ="DarkOliveGreen4",
     fg ="snow"
